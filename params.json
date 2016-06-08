@@ -1,0 +1,6 @@
+{
+  "name": "JavaScript学习 Day1.1",
+  "tagline": "《JavaScript权威指南》概览",
+  "body": "# 目录\r\n1. JavaScript概述\r\n<br /> JavaScript是面向web的编程语言。语法源自Java，一等函数（first-class function）源自scheme，基于原型（prototype-based）的继承来自self\r\n\r\n## 第一部分 \r\n\r\n### 涵盖了语言本身的特性以及少量的**内置API**\r\n\r\n1. 词法结构\r\n1. 类型、值和变量\r\n1. 表达式和运算符\r\n1. 语句\r\n1. **对象**\r\n1. **数组**\r\n1. 函数\r\n1. 类和模块\r\n1. 正则表达式的模式匹配\r\n1. JavaScript的子集和扩展\r\n1. 服务器端JavaScript\r\n\r\n## 第二部分\r\n\r\n### 讲解了JavaScript如何在web浏览器中工作，涵盖基于浏览器的API——**客户端JavaScript**\r\n\r\n1. Web浏览器中的JavaScript\r\n1. Windows对象\r\n1. 脚本化文档\r\n1. 脚本化CSS\r\n1. 事件处理\r\n1. 脚本化HTTP\r\n1. jQuery\r\n1. 客户端存储\r\n1. 多媒体和图形编程\r\n1. HTML5 API\r\n\r\n## 第三部分\r\n\r\n### 核心API参考手册\r\n\r\n## 第四部分\r\n\r\n### 客户端API参考手册",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
